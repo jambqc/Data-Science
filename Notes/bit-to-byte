@@ -1,0 +1,39 @@
+This post is to give you an idea of the scale of each unit of data measurement. 
+Before we begin, let's first just list a handful of different units of data measurement 
+in order from least to greatest:
+
+bit
+byte
+kilobyte
+megabyte
+gigabyte
+terabyte
+petabyte
+exabyte
+zettabyte
+yottabyte
+
+
+A byte is the fundamental unit of measurement in terms of quantifying data storage.
+How much is a byte? A byte is 8 bits. You can think of  the byte as an atom whereas 
+a bit is like a subatomic particle. The bit can be one of two values: 0 or 1; yes or no;
+up or down, north or south; etc. So if a byte is 8 bits, we can use our combinatoric skills 
+to understand that a byte can store 2^8 = 256 pieces of information. What can you store
+with a one byte? One byte can store all of the letters, numbers, and symbols that you can
+type with your keyboard. There are 128 standard ASCII characters  as well as another
+128 extended ASCII characters. 
+
+After the byte we have the kilobyte. A photograph of low resolution is about 100KB. A 
+high-resolution picture may venture into the megabyte units. There are about 16 hours
+of music in 1 gigabyte. A terabyte is a thousand gigabytes. How much is this? Well, it
+would be around 16,000 hours of music; that's a lot of music! That is about the equivalent 
+of 666 days of nonstop music. A petabyte is 2^50 bytes of storage - Whoa! What can I store 
+with a petabyte of storage at my disposal? You could store about the equivalent of 20 million 
+four-drawer filing cabinets filled with text. What about beyond a petabyte? Next up is 1000 
+petabytes or simply an exabyte. There is an estimated 2.5 quintillion bytes of information 
+generated each day, or 2.5 exabytes. Two to the 70th power is the equivalent of the next unit; 
+the zettabyte. Beyond this is the theoretical data storage unit of the yottabyte. It is hard to
+imagine what one could do with this much storage. It would take a data center the size of Delaware
+and Rhode Island together to store this much data. For now, a yottabyte is a unit of measurement
+hard for the human mind to comprehend. There are even larger theoretical units such as the
+brontobyte and geopbyte. Do you think we will ever be speaking of data in terms of these units??
